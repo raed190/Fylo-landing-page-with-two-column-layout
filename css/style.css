@@ -262,6 +262,7 @@ header .down a {
     margin-left: 0;
   }
   header .down {
+    display: block;
     bottom: 80px;
   }
 }
