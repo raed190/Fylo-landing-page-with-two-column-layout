@@ -590,6 +590,9 @@ footer .social {
   padding-top: 4rem;
 }
 
+footer .social ul {
+  justify-content: center;
+}
 footer .social ul li {
   width: 35px;
   height: 35px;
