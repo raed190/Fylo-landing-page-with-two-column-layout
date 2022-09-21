@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-responsive-with-beautiful-hover-effect-aojtqvDvLK)
-- Live Site URL: [live site URL ](https://raed190.github.io/Four-card-feature-section/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-with-beautiful-hover-effect-yy-LfsY6Xz)
+- Live Site URL: [live site URL ](https://raed190.github.io/Fylo-landing-page-with-two-column-layout/)
 
 ## My process
 
