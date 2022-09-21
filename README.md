@@ -45,7 +45,8 @@ Users should be able to:
 
 ### What I learned
 
-To build faster a Landing Page and create containers
+- HTML
+- CSS
 
 ### Useful resources
 
